@@ -64,7 +64,7 @@ function ProjectCard({ project }) {
           <div className="ml-4 lg:ml-8 mr-2">
             <span className="text-white">Url:</span>
             <span className="text-cyan-400 hover:text-blue-500">
-              <a href="{project.demo}" target="_blank" rel="noopener noreferrer" className="text-purple-400">
+              <a href={project.demo} target="_blank" rel="noopener noreferrer" className="text-purple-400">
                 {project.demo}
               </a>
             </span>
