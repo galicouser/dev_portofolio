@@ -20,7 +20,7 @@ export const projectsData = [
         name: 'Cassello Jewellers',
         description: 'An AR-enabled e-commerce store for jewelry, offering an immersive shopping experience.',
         tools: ['React', 'Three.js', 'Node.js'],
-        role: 'Front End Developer',
+        role: 'Full Stack Developer',
         code: '',
         demo: 'https://cassellojewellers.com',
         // image: casselloJewellers,
