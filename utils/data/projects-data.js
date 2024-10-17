@@ -22,7 +22,7 @@ export const projectsData = [
         tools: ['React', 'Three.js', 'Node.js'],
         role: 'Full Stack Developer',
         code: '',
-        demo: 'https://cassellojewellers.com',
+        demo: 'https://cassellojewelers.vercel.app',
         // image: casselloJewellers,
     },
     {
